@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I’m Tamil Amirtham N</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-He/Him-blueviolet">
-  <img src="https://img.shields.io/badge/Python-Full_Stack_Development-brightgreen">
-  <img src="https://img.shields.io/github/followers/yourusername?style=social">
-</p>
+
 
  👀 About Me
 
