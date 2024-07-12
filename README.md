@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I’m Tamil Amirtham N</h1>
 
-
+<p align="center">
+  <img src="https://link-to-your-image" width="200" height="200">
+</p>
 
  👀 About Me
 
