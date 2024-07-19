@@ -17,9 +17,22 @@
 
 - He/Him
 
- ⚡ Fun Fact
+📂 Projects
+🛒 E-Commerce Website
+- **Description**: An e-commerce platform where users can register, log in, browse products by category, and add items to their cart and wishlist.
+- **Technologies Used**: HTML, Bootstrap, JavaScript, Django, Python, MySQL
 
--I built a fully functional e-commerce website from scratch!
+⏰ Digital Clock
+- **Description**: A simple digital clock displaying the current time in hours, minutes, and seconds, updating automatically every second.
+- **Technologies Used**: HTML, CSS, JavaScript
+
+🐍 Python Interview Questions Solutions
+- **Description**: Solutions to 100 common Python interview questions, aimed at helping users understand key Python concepts and improve their coding skills.
+- **Technologies Used**: Python
+
+🛒 Groceries Management System
+- **Description**: A system for managing grocery items, including adding, updating, and removing items from the inventory, and tracking purchases.
+- **Technologies Used**: Python
 
 
 <!---
