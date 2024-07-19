@@ -8,16 +8,11 @@
 - **Current Learning:** Python Full Stack Development
 - **Looking to Collaborate:** Exciting software development projects
 
-📫 How to Reach Me
-
-- **Email:** tamilamirthamnagarajan@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/tamil-amirtham-nagarajan-aa9b79309
-
- 😄 Pronouns
+-  😄 Pronouns
 
 - He/Him
 
-📂 Projects
+- 📂 Projects
 🛒 E-Commerce Website
 - **Description**: An e-commerce platform where users can register, log in, browse products by category, and add items to their cart and wishlist.
 - **Technologies Used**: HTML, Bootstrap, JavaScript, Django, Python, MySQL
@@ -33,6 +28,13 @@
 🛒 Groceries Management System
 - **Description**: A system for managing grocery items, including adding, updating, and removing items from the inventory, and tracking purchases.
 - **Technologies Used**: Python
+
+📫 How to Reach Me
+
+- **Email:** tamilamirthamnagarajan@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/tamil-amirtham-nagarajan-aa9b79309
+
+
 
 
 <!---
