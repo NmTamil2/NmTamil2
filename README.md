@@ -32,7 +32,7 @@
 📫 How to Reach Me
 
 - **Email:** tamilamirthamnagarajan@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/tamil-amirtham-nagarajan-aa9b79309
+- **LinkedIn:** https://www.linkedin.com/in/tamil-amirtham-nagarajan-aa9b79309 
 
 
 
